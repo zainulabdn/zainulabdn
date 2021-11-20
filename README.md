@@ -1,5 +1,5 @@
 <p style="text-align:center;">
-<a href="#"><img width="50%" height="50%" src="https://images.squarespace-cdn.com/content/v1/5d30e891f34a2e0001e59af1/1610926091806-9ILR7ZIHZABCWBBZ2U3S/Time.gif?format=750w" height="175px"/></a></p>
+<a href="#"><img width="25%" height="25%" src="https://images.squarespace-cdn.com/content/v1/5d30e891f34a2e0001e59af1/1610926091806-9ILR7ZIHZABCWBBZ2U3S/Time.gif?format=750w" height="155px"/></a></p>
 
 <br>
 
