@@ -1,4 +1,4 @@
-<p style="text-align:center;"><a href="#"><img width="30%" height="30%" src="https://images.squarespace-cdn.com/content/v1/5d30e891f34a2e0001e59af1/1610926091806-9ILR7ZIHZABCWBBZ2U3S/Time.gif?format=750w" height="155px"/></a></p>
+<p style="text-align:center;"><a href="#"><img width="40%" height="40%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4745d4iblzyq34tr11feole1x06vne459mbvmlut5c&rid=giphy.gif&ct=g" height="155px"/></a></p>
 
 <br>
 
