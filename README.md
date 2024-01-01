@@ -1,4 +1,8 @@
-<p style="text-align:center;"><a href="#"><img width="50%" height="40%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4745d4iblzyq34tr11feole1x06vne459mbvmlut5c&rid=giphy.gif&ct=g" height="155px"/></a></p>
+<p align="center">
+        <a href="#">
+            <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4745d4iblzyq34tr11feole1x06vne459mbvmlut5c&rid=giphy.gif&ct=g" alt="Centered Image" width="60%" height="40%">
+        </a>
+    </p>
 
 <br>
 
