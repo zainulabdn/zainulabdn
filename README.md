@@ -55,3 +55,7 @@
 ## AI SMART TOOL & TASK
 - ANDROID: https://play.google.com/store/apps/details?id=com.appstrend.ai.engine.tools&hl=en
 - IOS: https://apps.apple.com/nr/app/ai-smart-tools-tasks/id6737235139
+
+## AI VOICE CHANGER (real characters voice changer)
+- ANDROID: https://play.google.com/store/apps/details?id=com.appstrend.ai.voice.changer&hl=en
+- IOS: https://apps.apple.com/nr/app/change-voice-ai-audio-effects/id6737278217
