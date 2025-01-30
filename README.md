@@ -49,3 +49,6 @@
 <a href="https://instagram.com/_zain.ul.abideen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zain.ul.abideen" height="30" width="40" /></a>
 <a href="https://dribbble.com/_xain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="_xain" height="30" width="40" /></a>
 </p>
+
+## Recent Developed App:
+https://apps.apple.com/nr/app/ai-smart-tools-tasks/id6737235139
