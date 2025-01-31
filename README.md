@@ -52,6 +52,10 @@
 
 
 ## Recent Developed App:
+
+## BLOCKHANGS (Soical Crypto Platform)
+- ANDROID: https://play.google.com/store/apps/details?id=com.blockhangs.androidApp&hl=en
+
 ## AI SMART TOOL & TASK
 - ANDROID: https://play.google.com/store/apps/details?id=com.appstrend.ai.engine.tools&hl=en
 - IOS: https://apps.apple.com/nr/app/ai-smart-tools-tasks/id6737235139
@@ -62,4 +66,6 @@
 
 ## IPTV Extreme player M3U
 - ANDROID: https://play.google.com/store/apps/details?id=com.freeact.xtreme.iptv.player&hl=en
+
+
 
