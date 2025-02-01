@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **zulabideen019@gmail.com**
 
-- ⚡ Fun fact **I play video games.**
+- ⚡ Fun fact **I play video games and make crazy App UI.**
 
 <br>
 <br>
