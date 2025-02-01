@@ -67,6 +67,9 @@
 ## IPTV Extreme player M3U
 - ANDROID: https://play.google.com/store/apps/details?id=com.freeact.xtreme.iptv.player&hl=en
 
+## PRO VPN Master: Smart VPN App
+- ANDROID: https://play.google.com/store/apps/details?id=com.freeact.vpn.unblock.proxy.fast.master&hl=en
+- 
 ## AR DRAWING (Paint And Sketch)
 - ANDROID: https://play.google.com/store/apps/details?id=com.freeact.ar.drawing.sketch.trace.app&hl=en
 - IOS: https://apps.apple.com/bt/app/drawing-sketch-ar-draw-by-cam/id6477436297
