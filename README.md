@@ -3,7 +3,6 @@
             <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4745d4iblzyq34tr11feole1x06vne459mbvmlut5c&rid=giphy.gif&ct=g" alt="Centered Image" width="30%" height="35%">
         </a>
     </p>
-
 <br>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Xayn</h1>
