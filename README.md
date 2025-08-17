@@ -53,8 +53,7 @@
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 ### 🔝 Top Contributed Repo
@@ -97,5 +96,9 @@
 - IOS: https://apps.apple.com/bt/app/drawing-sketch-ar-draw-by-cam/id6477436297
   
 
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ##
