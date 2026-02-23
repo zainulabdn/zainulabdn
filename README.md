@@ -73,6 +73,10 @@
 - ANDROID: https://play.google.com/store/apps/details?id=com.gs.app.flutter_app
 - IOS: https://apps.apple.com/az/app/global-shopaholics/id6471353235
 
+## Blupik TV App
+- ANDROID: https://play.google.com/store/apps/details?id=com.blupikhd
+- IOS: https://apps.apple.com/us/app/blupik/id1602070213
+
 ## AI SMART TOOL & TASK
 - ANDROID: https://play.google.com/store/apps/details?id=com.appstrend.ai.engine.tools&hl=en
 - IOS: https://apps.apple.com/nr/app/ai-smart-tools-tasks/id6737235139
