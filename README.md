@@ -89,6 +89,9 @@
 - ANDROID: https://play.google.com/store/apps/details?id=com.nourishdoc.app
 - IOS: Coming Soon
 
+## Islame: Quran & Tajweed
+- ANDROID: https://play.google.com/store/apps/details?id=com.app.islame
+
 ## AI VOICE CHANGER (real characters voice changer)
 - ANDROID: https://play.google.com/store/apps/details?id=com.appstrend.ai.voice.changer&hl=en
 - IOS: https://apps.apple.com/nr/app/change-voice-ai-audio-effects/id6737278217
