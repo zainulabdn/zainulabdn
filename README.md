@@ -66,8 +66,8 @@
 
 ## Recent Developed App:
 
-## BLOCKHANGS (Social Crypto Platform)
-- ANDROID: https://play.google.com/store/apps/details?id=com.blockhangs.androidApp&hl=en
+## MixerCloud
+- IOS: https://apps.apple.com/us/app/mixercloud/id6740339899
 
 ## AI SMART TOOL & TASK
 - ANDROID: https://play.google.com/store/apps/details?id=com.appstrend.ai.engine.tools&hl=en
@@ -91,7 +91,8 @@
 - ANDROID: https://play.google.com/store/apps/details?id=com.freeact.ar.drawing.sketch.trace.app&hl=en
 - IOS: https://apps.apple.com/bt/app/drawing-sketch-ar-draw-by-cam/id6477436297
   
-
+## BLOCKHANGS (Social Crypto Platform)
+- ANDROID: https://play.google.com/store/apps/details?id=com.blockhangs.androidApp&hl=en
 
 
 ### ✍️ Random Dev Quote
