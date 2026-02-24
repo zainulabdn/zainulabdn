@@ -64,7 +64,7 @@
 
 
 
-## Recent Developed App:
+## Recent Developed Apps:
 
 ## MixerCloud
 - IOS: https://apps.apple.com/us/app/mixercloud/id6740339899
