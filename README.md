@@ -31,9 +31,7 @@
 - ⚡ Fun fact **I play video games and make crazy App UI.**
 
 <br>
-<br>
-
-## 🚀 Languages and Tools:
+<br>## 🚀 Languages and Tools:
 <p align="left">
 <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
 <a href="https://www.android.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/android/android-official.svg" width="40" height="40"/></a>
@@ -60,7 +58,6 @@
 <a href="https://instagram.com/_zain.ul.abideen" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://dribbble.com/_xain" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30" width="40" /></a>
 </p>
-
 
 
 ## Recent Developed Apps:
