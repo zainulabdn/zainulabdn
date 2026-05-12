@@ -84,7 +84,7 @@
 
 ## NourishDoc: Midlife Wellness
 - ANDROID: https://play.google.com/store/apps/details?id=com.nourishdoc.app
-- IOS: Coming Soon
+- IOS: https://apps.apple.com/us/app/nourishdoc-midlife-wellness/id6743374362
 
 ## Islame: Quran & Tajweed
 - ANDROID: https://play.google.com/store/apps/details?id=com.app.islame
