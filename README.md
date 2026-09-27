@@ -24,7 +24,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zainulabdn&style=for-the-badge&color=13B9FD&label=PROFILE+VIEWS" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/zainulabdn?style=for-the-badge&logo=github&color=02569B&label=FOLLOWERS" alt="followers"/>
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ea44f?style=for-the-badge&logo=rocket&logoColor=white" alt="open to work"/>
 </p>
