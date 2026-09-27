@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" fill="none">
+  <defs>
+    <linearGradient id="w1" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#02569B"/><stop offset=".5" stop-color="#13B9FD"/><stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#02569B"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+      .glow { animation: glow 3s ease-in-out infinite; }
+      @keyframes glow { 50% { opacity: .55 } }
+    </style>
+  </defs>
+
+  <!-- layered animated waves -->
+  <path fill="url(#w2)" fill-opacity=".25">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0 90 C 200 50, 400 130, 600 90 S 1000 50, 1200 90 V170 H0Z;
+              M0 90 C 200 130, 400 50, 600 90 S 1000 130, 1200 90 V170 H0Z;
+              M0 90 C 200 50, 400 130, 600 90 S 1000 50, 1200 90 V170 H0Z"/>
+  </path>
+  <path fill="url(#w1)" fill-opacity=".45">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0 110 C 250 140, 450 80, 700 110 S 1050 140, 1200 105 V170 H0Z;
+              M0 110 C 250 80, 450 140, 700 110 S 1050 80, 1200 115 V170 H0Z;
+              M0 110 C 250 140, 450 80, 700 110 S 1050 140, 1200 105 V170 H0Z"/>
+  </path>
+  <path fill="url(#w1)">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="M0 135 C 300 120, 500 155, 800 135 S 1100 120, 1200 135 V170 H0Z;
+              M0 135 C 300 155, 500 120, 800 135 S 1100 155, 1200 135 V170 H0Z;
+              M0 135 C 300 120, 500 155, 800 135 S 1100 120, 1200 135 V170 H0Z"/>
+  </path>
+
+  <text x="600" y="40" text-anchor="middle" class="sans glow" font-size="18" font-weight="600" fill="#8b949e" letter-spacing="3">BUILT WITH <tspan fill="#13B9FD">FLUTTER</tspan> &amp; <tspan fill="#f85149">♥</tspan></text>
+</svg>
